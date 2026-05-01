@@ -8,9 +8,9 @@ function Features(){
         <>  <div className='grid place-items-center'>
                 <div className="relative w-full max-w-[1440px] grid grid-cols-2 grid-rows-3 max-[720px]:grid-cols-1 max-[720px]:grid-rows-[auto_auto_auto_auto_580px_580px]">
                     <div className='flex items-center justify-center w-full max-[720px]:order-2'>
-                        <div className='w-[55.5%] max-w-[400px] max-[720px]:w-full max-[720px]:max-w-[300px] flex flex-col gap-[clamp(1rem,2vw,2rem)] max-[720px]:gap-8 max-[720px]:pt-15 max-[720px]:pb-15'>
-                            <div className='font-fraunces font-black text-[clamp(1.5rem,2.5vw,1.875rem)] max-[720px]:text-3xl max-md:text-center'>Transform your brand</div>
-                            <p className='font-barlow max-md:text-center text-[clamp(.8rem,1.35vw,1rem)] max-[720px]:text-base'>We are a full-service creative agency specializing in helping brands grow fast. Engage your clients through compelling visuals that do most of the marketing for you.</p>
+                        <div className='w-[62.5%] max-w-[450px] max-[720px]:w-full max-[720px]:max-w-[300px] flex flex-col gap-[clamp(1rem,2vw,2rem)] max-[720px]:gap-8 max-[720px]:pt-15 max-[720px]:pb-15'>
+                            <div className='font-fraunces font-black text-[clamp(1.5rem,2.5vw,2.56rem)] leading-tight max-[720px]:text-3xl max-md:text-center'>Transform your brand</div>
+                            <p className='font-barlow max-md:text-center text-[clamp(.8rem,1.35vw,1.13rem)] max-[720px]:text-base'>We are a full-service creative agency specializing in helping brands grow fast. Engage your clients through compelling visuals that do most of the marketing for you.</p>
                             <div className='relative'>
                                 <div className='uppercase relative z-1 font-fraunces font-black max-md:text-center text-[clamp(.8rem,1.35vw,1rem)] max-[720px]:text-base'>Learn more</div>
                                 <div className='absolute top-3.5 z--1 bg-yellowlight -left-2.5 p-1.5 bg-black rounded-lg w-33.5 max-md:top-[80%] max-md:left-1/2 max-md:-translate-x-1/2 max-md:-translate-y-1/2'></div>
@@ -20,9 +20,9 @@ function Features(){
                     <div className='w-full max-[720px]:order-1'><img src={egg} alt="" /></div>
                     <div className='max-[720px]:order-3'><img src={cup} alt="" /></div>
                     <div className='flex items-center justify-center w-full max-[720px]:order-4'>
-                        <div className='w-[55.5%] max-w-[400px] max-[720px]:w-full max-[720px]:max-w-[300px] flex flex-col gap-[clamp(1rem,2vw,2rem)] max-[720px]:gap-8 max-[720px]:pt-15 max-[720px]:pb-15'>
-                            <div className='font-fraunces font-black text-[clamp(1.5rem,2.5vw,1.875rem)] max-[720px]:text-3xl max-md:text-center'>Stand out to the right audience</div>
-                            <p className='font-barlow max-md:text-center text-[clamp(.8rem,1.35vw,1rem)] max-[720px]:text-base'>Using collaborative formula of designers, researchers, photographers, videographers, and copywriters, we'll build and extend your brand in digital places.</p>
+                        <div className='w-[61.1%] max-w-[440px] max-[720px]:w-full max-[720px]:max-w-[300px] flex flex-col gap-[clamp(1rem,2vw,2rem)] max-[720px]:gap-8 max-[720px]:pt-15 max-[720px]:pb-15'>
+                            <div className='font-fraunces font-black text-[clamp(1.5rem,2.5vw,2.56rem)] leading-tight max-[720px]:text-3xl max-md:text-center'>Stand out to the right audience</div>
+                            <p className='font-barlow max-md:text-center text-[clamp(.8rem,1.35vw,1.15rem)] max-[720px]:text-base'>Using collaborative formula of designers, researchers, photographers, videographers, and copywriters, we'll build and extend your brand in digital places.</p>
                             <div className='relative'>
                                 <div className='uppercase relative z-1 font-fraunces font-black max-md:text-center text-[clamp(.8rem,1.35vw,1rem)] max-[720px]:text-base'>Learn more</div>
                                 <div className='absolute top-3.5 z--1 bg-red -left-2.5 p-1.5 bg-black rounded-lg w-33.5 max-md:top-[80%] max-md:left-1/2 max-md:-translate-x-1/2 max-md:-translate-y-1/2'></div>
